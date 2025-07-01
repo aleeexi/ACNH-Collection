@@ -6,3 +6,11 @@ This program collects all information about the multitude of items and collectio
 - Mark in-game items as obtained (and donated, in the case of in-game creatures)
 - Search through your collection using filters
 - Read information on how to obtain each item in your collection
+- More features to come!
+
+## How to Run:
+[IN PROGRESS]
+
+## Technology Used:
+**Language:** Java
+**Other:** Swing, JUnit
